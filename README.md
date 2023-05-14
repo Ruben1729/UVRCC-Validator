@@ -1,1 +1,5 @@
-# RectangularPressureVesselValidator
+# UVRCS Validator
+
+UVRCS(UNREINFORCED VESSELS OF RECTANGULAR CROSS SECTION) validator is a simple script that outputs the maximum allowable stress for a given design of a pressure vessel.
+
+Disclaimer: This software is designed to aid in calculations based on the American Society of Mechanical Engineers (ASME) Code Section VIII, but it is not a replacement for the official ASME standards or professional engineering advice. The software does not include the full text of the ASME standards, and users should always refer to the official ASME standards and consult with a qualified engineer to ensure compliance with all requirements. The creators of this software assume no liability for its use. Any use of this software is at the user's own risk. Always validate your results and ensure compliance with all relevant regulations and safety standards.
